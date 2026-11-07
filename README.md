@@ -1,4 +1,4 @@
-SCLCE · Sky Craft Launcher CE By XG STUDIO
+# SCLCE · Sky Craft Launcher CE By XG STUDIO
 
 English | [简体中文](README.zh-CN.md)
 
