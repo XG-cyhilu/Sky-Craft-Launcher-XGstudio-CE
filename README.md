@@ -1,8 +1,8 @@
-# SCL · Sky Craft Launcher
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/81cd04f6-52f5-4e60-b19a-e170a2d4c14f" /># SCL · Sky Craft Launcher
 
 English | [简体中文](README.zh-CN.md)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: GPLv3.0](https://www.gnu.org/licenses/gpl-3.0.txt)](LICENSE)
 [![Electron](https://img.shields.io/badge/Electron-45-47848F?logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -177,8 +177,7 @@ These contain configuration, logs, auto-downloaded Java runtimes and local bug r
 
 ## Copyright and license
 
-Copyright © 2026 **OMS Work!**. All rights reserved.
+Copyright © 2026 XG STUDIO
+GNU General Public License Version 3.0
 
-Released under the [MIT License](LICENSE).
-
-Minecraft is a trademark of Mojang Studios. This project is not affiliated with Mojang or Microsoft.
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
