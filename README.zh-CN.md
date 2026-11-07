@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-[![License: GPLv3.0(https://img.shields.io/badge/License-MIT-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)](LICENSE)
+[![License: GPLv3.0(https://www.gnu.org/licenses/gpl-3.0.txt)](LICENSE)
 [![Electron](https://img.shields.io/badge/Electron-45-47848F?logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
