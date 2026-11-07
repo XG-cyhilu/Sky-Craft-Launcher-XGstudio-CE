@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/81cd04f6-52f5-4e60-b19a-e170a2d4c14f" /># SCL · Sky Craft Launcher
+SCLCE · Sky Craft Launcher CE By XG STUDIO
 
 English | [简体中文](README.zh-CN.md)
 
