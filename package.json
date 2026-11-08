@@ -1,9 +1,9 @@
 {
-  "name": "scl",
+  "name": "sclce",
   "version": "2.0.5",
-  "description": "SCL — Sky Craft Launcher，由 OMS Work! 开发的 Minecraft 启动器",
-  "author": "OMS Work!",
-  "license": "MIT",
+  "description": "Sky Craft Launcher CE by XG STUDIO",
+  "author": "XG STUDIO",
+  "license": "GNU GPLv3.0",
   "private": true,
   "main": "dist/main/index.cjs",
   "scripts": {
@@ -35,10 +35,10 @@
     "typescript": "^5.9.3",
     "vite": "^8.3.5"
   },
-  "productName": "SCL",
+  "productName": "SCLce",
   "build": {
-    "appId": "studio.scl.launcher",
-    "productName": "SCL",
+    "appId": "studio.sclce.launcher",
+    "productName": "SCLCE",
     "directories": {
       "output": "release-installer"
     },
@@ -64,18 +64,18 @@
       "allowToChangeInstallationDirectory": true,
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true,
-      "shortcutName": "SCL",
-      "artifactName": "SCL-Setup-${version}-${arch}.${ext}"
+      "shortcutName": "SCLCE",
+      "artifactName": "SCLCE-Setup-${version}-${arch}.${ext}"
     },
-    "copyright": "Copyright © 2026 OMS Work!"
+    "copyright": "Copyright © 2026 XG STUDIO"
   },
-  "homepage": "https://github.com/SodiumMC/Sky-Craft-Launcher",
+  "homepage": "https://github.com/XG-cyhilu/Sky-Craft-Launcher-XGstudio-CE",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SodiumMC/Sky-Craft-Launcher.git"
+    "url": "https://github.com/XG-cyhilu/Sky-Craft-Launcher-XGstudio-CE.git"
   },
   "bugs": {
-    "url": "https://github.com/SodiumMC/Sky-Craft-Launcher/issues"
+    "url": "https://github.com/XG-cyhilu/Sky-Craft-Launcher-XGstudio-CE/issues"
   },
   "keywords": [
     "minecraft",
